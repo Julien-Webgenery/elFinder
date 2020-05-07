@@ -28,7 +28,7 @@
         "php": ">=5.2"
     },
     "replace": {
-        "studio-42/elfinder"   
+        "studio-42/elfinder": "2.1.*"   
     },
     "suggest": {
         "kunalvarma05/dropbox-php-sdk": "VolumeDriver `Dropbox`2 require `kunalvarma05/dropbox-php-sdk.",
